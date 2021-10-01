@@ -1,6 +1,8 @@
 # BTC-bitcoin-historical-price-daily-from-2014-11-28
 HISTORICAL BTC PRICE DATA INCLUDES VOLUME
 
+MYSQL SERVER (WITH CREATE TABLE AND INSERT SQL) 
+
 Unix Timestamp - This is the unix timestamp or also known as "Epoch Time". Use this to convert to your local timezone
 Date - This timestamp is UTC Timezone
 Symbol - The symbol for which the timeseries data refers
